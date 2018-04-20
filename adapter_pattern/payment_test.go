@@ -1,7 +1,7 @@
 package adapter
 
 import (
-  "testing"
+	"testing"
 )
 
 func TestAdapter(t *testing.T) {
